@@ -1,7 +1,7 @@
 {
     "name": "Nguyen Duy Tuan Moder",
     "version": "1.2.14",
-    "description": "Nguyễn Duy Tuấn Bung File Xong Mod Sạch Hahahaha",
+    "description": "Cảm ơn bạn đã dùng file của Nguyễn Duy Tuấn!",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
