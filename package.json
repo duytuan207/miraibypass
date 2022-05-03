@@ -1,7 +1,7 @@
 {
-    "name": "Nguyen Duy Tuan Moder",
+    "name": "𝙉𝙜𝙪𝙮𝙚𝙣 𝘿𝙪𝙮 𝙏𝙪𝙖𝙣",
     "version": "1.2.14",
-    "description": "Cảm ơn bạn đã dùng file của Nguyễn Duy Tuấn!",
+    "description": "𝘾𝙖̉𝙢 𝙤̛𝙣 𝙗𝙖̣𝙣 𝙙𝙖̃ 𝙙𝙪̀𝙣𝙜 𝙛𝙞𝙡𝙚 𝙘𝙪̉𝙖 𝙉𝙜𝙪𝙮𝙚̂̃𝙣 𝘿𝙪𝙮 𝙏𝙪𝙖̂́𝙣!",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
